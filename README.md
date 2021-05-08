@@ -22,3 +22,4 @@
 [1]: https://twitter.com/pvsaikrithik
 [2]: https://www.facebook.com/pothula.saikrithik
 [6]: https://github.com/saikrithik
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
