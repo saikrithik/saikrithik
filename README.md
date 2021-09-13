@@ -4,7 +4,6 @@
 
      
 ### About Me 🤷🏻‍♂️
-- 🔭 I’m currently working on start up VoidARK
 - 🌱 I’m currently learning flask
 - 👯 I’m looking to collaborate on deeplearning projects
 
