@@ -1,4 +1,4 @@
-### Hi there, I'm Krithik 👋 
+### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&color=1589FF&center=true&vCenter=true&lines=Hi+there%2C+I'm+Sai+Krithik+👋)](https://git.io/typing-svg) </h1>
 
 ## A Passionate Data Analyst & Machine Learning enthusiast
 ### About Me 🤷🏻‍♂️
