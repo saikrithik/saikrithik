@@ -1,11 +1,23 @@
 ### Hi there, I'm Krithik 👋 
 
 ## A Passionate Data Analyst & Machine Learning enthusiast
-
-     
 ### About Me 🤷🏻‍♂️
+<div>  
+<div>
 - 🌱 I’m currently learning flask
+</div>
+<div>
 - 👯 I’m looking to collaborate on deeplearning projects
+</div>   
+<div>   
+
+ <div>
+     
+<img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/output-onlinegiftools.gif" width="100px" align="right">
+</div>
+
+<!-- visitor count -->
+<div align="center"><b>Profile visit counts<b><br><img src="https://profile-counter.glitch.me/saikrithik/count.svg"></div>
 
 ### 📫 How to reach me?
 If you would like to discuss these things, you can join me on LinkedIn. You can also ask me anything .
