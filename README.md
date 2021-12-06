@@ -18,6 +18,8 @@
 
 <!-- visitor count -->
 <div align="center"><b>Profile visit counts<b><br><img src="https://profile-counter.glitch.me/saikrithik/count.svg"></div>
+ 
+<img src ='https://github-readme-stats.vercel.app/api?username=saikrithik&theme=solarized-light&show_icons=true'/>
 
 ### 📫 How to reach me?
 If you would like to discuss these things, you can join me on LinkedIn. You can also ask me anything .
