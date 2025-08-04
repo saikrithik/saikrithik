@@ -17,7 +17,6 @@
 </div>
 
 <!-- visitor count -->
-<div align="center"><b>Profile visit counts<b><br><img src="https://profile-counter.glitch.me/saikrithik/count.svg"></div>
  
 ### 📫 How to reach me?
 If you would like to discuss these things, you can join me on LinkedIn. You can also ask me anything .
