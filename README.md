@@ -4,7 +4,7 @@
 ### About Me 🤷🏻‍♂️
 <div>  
 <div>
-- 🌱 I’m currently learning flask
+- 🌱 I am working as an AI Engineer at Kinara AI
 </div>
 <div>
 - 👯 I’m looking to collaborate on deeplearning projects
